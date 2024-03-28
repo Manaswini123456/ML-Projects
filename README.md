@@ -9,15 +9,15 @@ This repository contains a collection of machine learning projects developed by 
 ## Projects
 
 1. **Project Name 1**
-Description: This project aims to predict whether an underwater object detected by a sonar signal is a rock or a mine. It utilizes machine learning algorithms to classify sonar returns as either "R" (rock) or "M" (mine).
-Technologies: Python, scikit-learn, numpy, pandas
-Dataset: The dataset used for training and testing is the "Sonar, Mines vs Rocks" dataset from the UCI Machine Learning Repository.
-Results:
-Training Accuracy: 83.42%
-Test Accuracy: 76.1%
-How to Run:
-Clone the repository: git clone https://github.com/your-username/ml-projects.git
-Navigate to the Sonar Prediction project directory: cd ml-projects/Sonar_Prediction
+-Description: This project aims to predict whether an underwater object detected by a sonar signal is a rock or a mine. It utilizes machine learning algorithms to classify sonar returns as either "R" (rock) or "M" (mine).
+-Technologies: Python, scikit-learn, numpy, pandas
+-Dataset: The dataset used for training and testing is the "Copy of sonar data.csv" dataset from the UCI Machine Learning Repository.
+-Results:
+-Training Accuracy: 83.42%
+-Test Accuracy: 76.1%
+-How to Run:
+-Clone the repository: git clone https://github.com/your-username/ml-projects.git
+-Navigate to the Sonar Prediction project directory: cd ml-projects/Sonar_Prediction
 
 
 
